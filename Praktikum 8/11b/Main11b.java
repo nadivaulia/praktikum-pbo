@@ -33,7 +33,7 @@ class Data<T> {
     }
 }
 
-class Main {
+class Main11b {
     public static void main(String[] args) {
         //kamus
         Ulat K;
